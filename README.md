@@ -23,9 +23,6 @@
   <a href="https://in.pinterest.com/aditykumari12611/">
     <img src="https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/aadi1702">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" height="45" />
-</a>
 </p>
 
 ---
